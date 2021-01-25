@@ -15,6 +15,7 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 
 - [Resources](#resources)
 - [List of resources](#list-of-resources)
+- [How to contribute](#how-to-contribute)
 
 ## List of resources
 
