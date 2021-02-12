@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/apt42_logo.png" alt="APT42 logo" width="250" />
+  <img src="assets/apt42_banner.png" alt="APT42 logo" />
 </p>
 
 <h1 align="center">
