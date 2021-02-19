@@ -13,11 +13,38 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 
 ### Table of Contents
 
-- [Resources](#resources)
 - [List of resources](#list-of-resources)
 - [How to contribute](#how-to-contribute)
 
 ## List of resources
+
+### Training platforms
+
+- [Try Hack Me](https://tryhackme.com/): Guided challenges - good starting point
+- [HTB Academy](https://academy.hackthebox.eu/): Tutorials - good starting point
+- [root-me](https://www.root-me.org/): CTFish challenges - CTF training
+- [NewbieContest](https://www.newbiecontest.org/): CTFish challenges - CTF training
+- [HackThisSite](https://www.hackthissite.org/): CTFish challenges - CTF training
+- [HackTheBox](https://www.hackthebox.eu/): Challenges and boxes (training environments) - requires a few basis
+
+### Reverse engineering
+
+- [Malware Unicorn](https://malwareunicorn.org/): Resources and workshops by Amanda Rousseau (Offensive Security Engineer, Red Team at Facebook)
+
+### Container security
+
+- [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
+- [kubernetes-goat](https://github.com/madhuakula/kubernetes-goat): an intentionally vulnerable cluster environment to learn and practice Kubernetes security
+- [peirates](https://github.com/inguardians/peirates): Kubernetes Penetration Testing tool
+- [gke-auditor](https://github.com/google/gke-auditor): tool to detect a set of common Google Kubernetes Engine misconfigurations
+
+### OSINT
+
+- [What is OSINT? How can I make use of it?](https://securitytrails.com/blog/what-is-osint-how-can-i-make-use-of-it)
+- [OSINTCurio.us: Python, Your Friendly OSINT Helper](https://osintcurio.us/2018/12/25/python-your-friendly-osint-helper/)
+- [OSINTCurio.us: Data Scraping and Visualizing using Instant Data Scraper, ViewDNS.info, and Maltego](https://osintcurio.us/2020/04/15/data-scraping-and-visualizing-using-instant-data-scraper-viewdns-info-and-maltego/)
+- [conINT 2020 - Intelligence Conference & CTF](https://www.youtube.com/channel/UCBtSOceclpKcvunVNw82tFQ/)
+- [Automating OSINT](http://www.automatingosint.com/blog/)
 
 ## How to contribute
 
