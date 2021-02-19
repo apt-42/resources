@@ -48,7 +48,11 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 
 ### Machine Learning and infosec
 
-You can check [this list](https://github.com/apt-42/resources/blob/master/ml_for_infosec.md).
+You can check [this list](ml_for_infosec.md).
+
+### Security-related projects at 42
+
+You can check [this list](projects_at_42.md)
 
 ## How to contribute
 
