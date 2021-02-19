@@ -14,6 +14,8 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 ### Table of Contents
 
 - [List of resources](#list-of-resources)
+- [Security-related projects at 42](#security-related-projects-at-42)
+- [Culture](#culture)
 - [How to contribute](#how-to-contribute)
 
 ## List of resources
@@ -50,9 +52,13 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 
 You can check [this list](ml_for_infosec.md).
 
-### Security-related projects at 42
+## Security-related projects at 42
 
 You can check [this list](projects_at_42.md)
+
+## Culture
+
+- [Movies For Hackers](https://github.com/k4m4/movies-for-hackers)
 
 ## How to contribute
 
