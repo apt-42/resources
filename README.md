@@ -46,6 +46,10 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 - [conINT 2020 - Intelligence Conference & CTF](https://www.youtube.com/channel/UCBtSOceclpKcvunVNw82tFQ/)
 - [Automating OSINT](http://www.automatingosint.com/blog/)
 
+### Machine Learning and infosec
+
+You can check [this list](https://github.com/apt-42/resources/blob/master/ml_for_infosec.md).
+
 ## How to contribute
 
 You are a 42 student and willing to contribute? Follow these [guidelines](CONTRIBUTING.md).
