@@ -33,6 +33,7 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 ### Reverse engineering
 
 - [Malware Unicorn](https://malwareunicorn.org/): Resources and workshops by Amanda Rousseau (Offensive Security Engineer, Red Team at Facebook)
+- [vx-underground](https://vx-underground.org/)
 
 ### Container security
 
@@ -59,7 +60,22 @@ You can check [this list](projects_at_42.md)
 
 ## Culture
 
+### Movies
+
 - [Movies For Hackers](https://github.com/k4m4/movies-for-hackers)
+
+### Books
+
+- :fr: *La face cachée d'internet* de Rayna Stamboliyska
+- :fr: *Comme un empire dans un empire* d'Alice Zeniter
+- *Hacker, Hoaxer, Whistleblower, Spy: the Story of Anonymous*, Gabriella Coleman
+
+### Games
+
+- [sourcing.games](https://sourcing.games/): Games for recruiters and sourcers.
+- [GeoGuessr](https://www.geoguessr.com/): GeoGuessr is a geography game which takes you on a journey around the world and challenges your ability to recognize your surroundings.
+- [Simulacra](https://store.steampowered.com/app/712730/SIMULACRA/): An interactive horror experience of exploring a missing woman’s phone.
+- [Yolo Space Hacker](https://store.steampowered.com/app/1341450/Yolo_Space_Hacker/): Welcome to our ethical hacker's organisation: we will teach you how to use actual hacker tools (terminal, proxy, reverse shells...) to scan the network, crack passwords, bypass server security and solve the mystery of the Bikini-72 space station.
 
 ## How to contribute
 
