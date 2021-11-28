@@ -20,7 +20,7 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 
 ## List of resources
 
-### Training platforms
+### Online training
 
 - [Try Hack Me](https://tryhackme.com/): Guided challenges - good starting point
 - [HTB Academy](https://academy.hackthebox.eu/): Tutorials - good starting point
@@ -29,6 +29,8 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 - [NewbieContest](https://www.newbiecontest.org/): CTFish challenges - CTF training
 - [HackThisSite](https://www.hackthissite.org/): CTFish challenges - CTF training
 - [HackTheBox](https://www.hackthebox.eu/): Challenges and boxes (training environments) - requires a few basis
+- [microcorruption](https://microcorruption.com/login): Embedded Security
+- [Cryptopals](https://cryptopals.com/): crypto exercises
 
 ### Reverse engineering
 
@@ -53,6 +55,14 @@ Some CTF still available to train:
 ### Machine Learning and infosec
 
 You can check [this list](ml_for_infosec.md).
+
+### Books
+
+- *Serious Cryptography*, Jean-Philippe Aumasson
+
+### Career
+
+- [Career Cheatsheet](https://trailofbits.github.io/ctf/intro/careers.html)
 
 ## Security-related projects at 42
 
