@@ -29,6 +29,7 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 - [NewbieContest](https://www.newbiecontest.org/): CTFish challenges - CTF training
 - [HackThisSite](https://www.hackthissite.org/): CTFish challenges - CTF training
 - [HackTheBox](https://www.hackthebox.eu/): Challenges and boxes (training environments) - requires a few basis
+- [PortSwigger - Web Security Academy](https://portswigger.net/web-security): Web security training
 - [microcorruption](https://microcorruption.com/login): Embedded Security
 - [Cryptopals](https://cryptopals.com/): crypto exercises
 
@@ -71,6 +72,11 @@ You can check [this list](ml_for_infosec.md).
 ## Security-related projects at 42
 
 You can check [this list](projects_at_42.md)
+
+### Privacy
+
+- :fr: [Guide de protection numérique, nothing2hide](https://nothing2hide.org/fr/guide-de-protection-numerique/): beginner-friendly
+- [Tech4Press](https://tech4press.org/en/): free digital emergency assistance service dedicated to journalists and activists
 
 ## Culture
 
