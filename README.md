@@ -57,6 +57,7 @@ Some CTF still available to train:
 
 - :fr: [Guide de protection numérique, nothing2hide](https://nothing2hide.org/fr/guide-de-protection-numerique/): beginner-friendly
 - [Tech4Press](https://tech4press.org/en/): free digital emergency assistance service dedicated to journalists and activists
+- :fr: [Guides de l'association Echap](https://echap.eu.org/ressources/)
 
 ### Tools
 
