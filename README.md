@@ -26,6 +26,7 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 - [HTB Academy](https://academy.hackthebox.eu/): Tutorials - good starting point
 - [INE](https://my.ine.com/): Tutorials - good starting point
 - [root-me](https://www.root-me.org/): CTFish challenges - CTF training
+- [Open Classrooms x root-me](https://blog.openclassrooms.com/2022/08/24/cybersecurite-offensive-sexercer-avec-root-me-et-openclassrooms/): Online courses - good starting point
 - [NewbieContest](https://www.newbiecontest.org/): CTFish challenges - CTF training
 - [HackThisSite](https://www.hackthissite.org/): CTFish challenges - CTF training
 - [HackTheBox](https://www.hackthebox.eu/): Challenges and boxes (training environments) - requires a few basis
