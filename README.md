@@ -21,6 +21,7 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 ## List of resources
 
 ### Online courses and training
+
 - [Try Hack Me](https://tryhackme.com/): Guided challenges - good starting point
 - [HTB Academy](https://academy.hackthebox.eu/): Online courses focus on penetration testing and bug hunting. Good starting point.
 - [Open Classrooms x root-me](https://blog.openclassrooms.com/2022/08/24/cybersecurite-offensive-sexercer-avec-root-me-et-openclassrooms/): Online courses - good starting point
@@ -35,7 +36,9 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 - [HackTheBox](https://www.hackthebox.eu/): Challenges and boxes (training environments) - requires a few basis but available starting points for new students.
 - [PortSwigger - Web Security Academy](https://portswigger.net/web-security): Web security training
 - [microcorruption](https://microcorruption.com/login): Embedded Security
+
 ### Reverse engineering
+
 - [Malware Unicorn](https://malwareunicorn.org/): Resources and workshops by Amanda Rousseau (Offensive Security Engineer, Red Team at Facebook)
 - [vx-underground](https://vx-underground.org/)
 - [Pwn.college](https://pwn.college/): Very diverse courses on many aspects of binary exploitation.
@@ -61,7 +64,7 @@ Some CTF still available to train:
 - :fr: [Guide de protection numérique, nothing2hide](https://nothing2hide.org/fr/guide-de-protection-numerique/): beginner-friendly
 - [Tech4Press](https://tech4press.org/en/): free digital emergency assistance service dedicated to journalists and activists
 - :fr: [Guides de l'association Echap](https://echap.eu.org/ressources/)
-- :fr: [La Quadrature du net](https://www.laquadrature.net/): Juridic analysis
+- :fr: [La Quadrature du net](https://www.laquadrature.net/): Analyses juridiques
 
 ### Tools
 
@@ -104,8 +107,8 @@ You can check [this list](projects_at_42.md)
 
 ### Podcasts
 
-- [NoLimitSecu](https://www.nolimitsecu.fr/): :fr: Podcast sur la cybersécurité.
-- [No Log](https://shows.acast.com/no-log): :fr: Décryptage, rencontres, chroniques, récits...
+- :fr: [NoLimitSecu](https://www.nolimitsecu.fr/): Podcast sur la cybersécurité.
+- :fr: [No Log](https://shows.acast.com/no-log): Décryptage, rencontres, chroniques, récits...
 - [Darknet Diaries](https://darknetdiaries.com/): True stories from the dark side of the Internet
 
 
