@@ -22,6 +22,7 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 
 ### Online courses and training
 
+- [LabEx](https://labex.io/learn): Interactive hands-on courses with 6000+ labs covering programming, cybersecurity, Linux, DevOps, and data science - perfect for 42 students building practical tech skills
 - [Try Hack Me](https://tryhackme.com/): Guided challenges - good starting point
 - [HTB Academy](https://academy.hackthebox.eu/): Online courses focus on penetration testing and bug hunting. Good starting point.
 - [Open Classrooms x root-me](https://blog.openclassrooms.com/2022/08/24/cybersecurite-offensive-sexercer-avec-root-me-et-openclassrooms/): Online courses - good starting point
