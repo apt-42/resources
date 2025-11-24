@@ -22,6 +22,7 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 
 ### Online courses and training
 
+- [pwn.guide](https://pwn.guide): Learn hacking from **150+** tutorials, ranging from web, hardware, wireless... hacking to cryptography, forensics & **certification training** (for certificates like the CompTIA Security+ SY0-701). Offers free. monthly, yearly & **lifetime** subscriptions.
 - [LabEx](https://labex.io/learn): Interactive hands-on courses with 6000+ labs covering programming, cybersecurity, Linux, DevOps, and data science - perfect for 42 students building practical tech skills
 - [Try Hack Me](https://tryhackme.com/): Guided challenges - good starting point
 - [HTB Academy](https://academy.hackthebox.eu/): Online courses focus on penetration testing and bug hunting. Good starting point.
