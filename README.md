@@ -55,10 +55,8 @@ In this repository, you will find various resources, tutorials, FAQs and so fort
 
 ### OSINT
 
-Some CTF still available to train:
+CTF still available to train:
 
-- [Cybersoc | Cyber Detective CTF](https://ctf.cybersoc.wales/): entry-level OSINT CTF
-- [Cybersoc | Cyber Investigator CTF](https://investigator.cybersoc.wales/): the sequel to Cyber Detective CTF
 - [CYBAR OSINT CTF 2020](https://github.com/cybar-party/cybar-osint-ctf-2020): entry-level OSINT CTF that can be run locally - less easy than Cybersoc
 
 ### Privacy
